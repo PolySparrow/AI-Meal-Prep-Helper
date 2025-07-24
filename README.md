@@ -1,2 +1,2 @@
 # AI-Meal-Prep-Helper
-This utilizes llama3 to generate a schedule on what days to prep meals
+This makes a meal schedule based on recipe URLs. AI may be utilized in the future .
